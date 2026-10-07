@@ -3,6 +3,11 @@ displayStrings = (
 "0123456789
 /zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom 
 /zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr 
-⁄ ½ ¼ ¾ ⅛ ⅜ ⅝ ⅞"
+⁄ ½ ¼ ¾ ⅛ ⅜ ⅝ ⅞",
+"ẞ ß ʒ ǯ wøð ǥ Ʒ Ǯ B ma/t_t one
+mattone
+ca/f_f one
+caffone
+"
 );
 }

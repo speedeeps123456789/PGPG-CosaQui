@@ -3,7 +3,16 @@ glyphname = Ezhcaron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (95,160);
+ref = caroncomb;
+}
+);
+width = 556;
 }
 );
 unicode = 494;

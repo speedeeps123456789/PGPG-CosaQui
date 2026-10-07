@@ -141,8 +141,10 @@ pos = -256;
 name = Regular;
 userData = {
 GSCornerRadius = 15;
-GSOffsetHorizontal = -54;
-GSOffsetVertical = -54;
+GSOffsetAutoStroke = 1;
+GSOffsetHorizontal = -3.5;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = -3.5;
 };
 }
 );
