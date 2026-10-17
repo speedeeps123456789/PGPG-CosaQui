@@ -3,6 +3,26 @@ glyphname = less;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(509,117,l),
+(68,292,l),
+(68,222,l),
+(509,46,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(79,324,l),
+(165,289,l),
+(509,425,l),
+(509,496,l)
+);
+}
+);
 width = 600;
 }
 );

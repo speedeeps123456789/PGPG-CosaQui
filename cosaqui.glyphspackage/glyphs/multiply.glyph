@@ -3,7 +3,36 @@ glyphname = multiply;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(468,393,l),
+(422,439,l),
+(291,308,l),
+(337,262,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(115,41,l),
+(246,172,l),
+(201,217,l),
+(70,86,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(70,393,l),
+(423,41,l),
+(468,86,l),
+(116,439,l)
+);
+}
+);
+width = 538;
 }
 );
 unicode = 215;

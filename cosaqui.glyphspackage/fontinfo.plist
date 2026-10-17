@@ -142,9 +142,9 @@ name = Regular;
 userData = {
 GSCornerRadius = 15;
 GSOffsetAutoStroke = 1;
-GSOffsetHorizontal = -3.5;
+GSOffsetHorizontal = 8;
 GSOffsetKeepCompatible = 1;
-GSOffsetVertical = -3.5;
+GSOffsetVertical = 8;
 };
 }
 );

@@ -3,6 +3,26 @@ glyphname = greater;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(509,222,l),
+(509,292,l),
+(68,117,l),
+(68,46,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(68,425,l),
+(412,289,l),
+(498,324,l),
+(68,496,l)
+);
+}
+);
 width = 600;
 }
 );

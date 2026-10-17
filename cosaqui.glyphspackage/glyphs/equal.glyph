@@ -3,7 +3,27 @@ glyphname = equal;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,320,l),
+(485,320,l),
+(485,384,l),
+(70,384,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(70,127,l),
+(485,127,l),
+(485,191,l),
+(70,191,l)
+);
+}
+);
+width = 555;
 }
 );
 unicode = 61;
